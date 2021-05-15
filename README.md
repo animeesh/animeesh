@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @animeesh
-- 👀 I’m interested in machine learning in python 
-- 🌱 I’m currently learning deep learning
-- 💞️ I’m looking to collaborate on github repos
+- 👀 I’m interested in @machine learning in python 
+- 🌱 I’m currently learning @deep learning
+- 💞️ I’m looking to collaborate on @github repos
 - 📫 How to reach me linkedin www.linkedin.com/in/animeshnayak
 
 <!---
