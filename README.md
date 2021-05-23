@@ -1,4 +1,9 @@
 ### Hi there 👋
+👋 Hi, I’m @animeesh
+👀 I’m interested in @machine learning in python
+🌱 I’m currently learning @deep learning
+💞️ I’m looking to collaborate on @github repos
+📫 How to reach me linkedin www.linkedin.com/in/animeshnayak
 
 <!--
 **animeesh/animeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
