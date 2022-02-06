@@ -1,4 +1,4 @@
-[![MasterHead](https://news.microsoft.com/wp-content/uploads/prod/sites/93/2017/02/Girls-in-Stem-gif-2.gif)](https://www.linkedin.com/in/animeshnayak/)
+[![MasterHead](https://media-exp1.licdn.com/dms/image/C4E16AQGqqtFBcne3JA/profile-displaybackgroundimage-shrink_200_800/0/1637121364059?e=1649894400&v=beta&t=BiM29UehuTwWy41Ih4yBcxobFI6J7jwXE9uGmie54sA)](https://www.linkedin.com/in/animeshnayak/)
 <h1 align="center">Hi Folks 👋, I'm Animesh Nayak</h1>
 <h3 align="center">A passionate computer Vision enthusiast who loves to code,innovate and learn new things everyday.</h3>
 
