@@ -4,10 +4,10 @@
 
 
 ### Hi there 👋
-- 👀 I’m interested in @machine learning 
-- 🌱 I’m currently learning tensorflow micro 
-- 💞️ I’m looking to collaborate on @github repos
-- 📫 How to reach me linkedin www.linkedin.com/in/animeshnayak
+- 👀 I’m interested in **@machine learning 
+- 🌱 I’m currently learning **tensorflow micro 
+- 💞️ I’m looking to collaborate on **@github repos & stackoverflow
+- 📫 How to reach me **linkedin www.linkedin.com/in/animeshnayak
 -  ⚡ Fun fact **I am a crazy nerd!!**
 
 
