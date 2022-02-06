@@ -4,11 +4,13 @@
 
 
 ### Hi there 👋
-- 👋 Hi, I’m @animeesh
-- 👀 I’m interested in @machine learning in python
-- 🌱 I’m currently learning @deep learning
+- 👀 I’m interested in @machine learning 
+- 🌱 I’m currently learning tensorflow micro 
 - 💞️ I’m looking to collaborate on @github repos
 - 📫 How to reach me linkedin www.linkedin.com/in/animeshnayak
+
+<p align="left"> <a href="https://twitter.com/animeshnayak74" target="blank"><img src="https://img.shields.io/twitter/follow/sanjanpra2k01?logo=twitter&style=for-the-badge" alt="sanjanpra2k01" /></a> </p>
+
 
 <!--
 **animeesh/animeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
