@@ -11,6 +11,14 @@
 
 <p align="left"> <a href="https://twitter.com/animeshnayak74" target="blank"><img src="https://img.shields.io/twitter/follow/animeshnayak74?logo=twitter&style=for-the-badge" alt="sanjanpra2k01" /></a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjanaprasad2k01&show_icons=true&locale=en&layout=compact" alt="sanjanaprasad2k01" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animeesh&show_icons=true&locale=en" alt="animeesh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjanaprasad2k01&" alt="sanjanaprasad2k01" /></p>
+
+
+
 
 <!--
 **animeesh/animeesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
