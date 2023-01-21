@@ -15,10 +15,10 @@
 
 
 
-<!-- <p align="left"> <a href="https://twitter.com/animeshnayak74" target="blank"><img src="https://img.shields.io/twitter/follow/animeshnayak74?logo=twitter&style=for-the-badge" alt="animeesh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/animeshnayak74" target="blank"><img src="https://img.shields.io/twitter/follow/animeshnayak74?logo=twitter&style=for-the-badge" alt="animeesh" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=animeesh&show_icons=true&locale=en&layout=compact" alt="animeesh" /></p>
- -->
+ 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=animeesh&show_icons=true&locale=en" alt="animeesh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=animeesh" alt="animeesh" /></p>
