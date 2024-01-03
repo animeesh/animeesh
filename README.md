@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/animeesh/animeesh/blob/main/ezgif.com-gif-maker.gif)](https://www.linkedin.com/in/animeshnayak/)
+[![MasterHead](https://github.com/animeesh/animeesh/blob/main/coding.gif)](https://www.linkedin.com/in/animeshnayak/)
 <h1 align="center">Hi Folks 👋, I'm Animesh Nayak</h1>
 <h3 align="center">A passionate computer Vision enthusiast who loves to code,innovate and learn new things everyday.</h3>
 
