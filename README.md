@@ -7,8 +7,8 @@
 
 
 ### Hi there 👋
-- 👀 I’m interested in **@machine learning**
-- 🌱 I’m currently learning **tensorflow micro** 
+- 👀 I’m interested in **@LLM AI ML**
+- 🌱 I’m currently learning **@Agentic AI** 
 - 💞️ I’m looking to collaborate on **@github repos & stackoverflow**
 - 📫 How to reach me **linkedin** www.linkedin.com/in/animeshnayak
 -  ⚡ Fun fact **I am a crazy nerd!!**
