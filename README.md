@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/animeesh/animeesh/blob/main/ezgif.com-crop.gif)](https://www.linkedin.com/in/animeshnayak/)
 <h1 align="center">Hi Folks 👋, I'm Animesh Nayak</h1>
-<h3 align="center">A passionate computer Vision enthusiast who loves to code,innovate and learn new things everyday.</h3>
+<h3 align="center">A passionate Gen AI enthusiast who loves to code,innovate and learn new things everyday.</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=animeesh&label=Profile%20views&color=0e75b6&style=flat" alt="animeesh" /> </p>
